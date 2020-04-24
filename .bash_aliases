@@ -12,5 +12,4 @@ alias more=less
 alias rm='rm -i'
 alias mv='mv -i'
 
-alias gl='git log --oneline -n 40'
-alias gs='git log --oneline -n 20; git status'
+alias gls='git log --oneline -n 20; git status'
